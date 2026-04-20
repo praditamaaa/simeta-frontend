@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2026-02-21T06:46:04+07:00",
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-02-21T06:46:04+07:00",
+            "type": "major",
+            "description": "Initial API contract release with full Swagger documentation"
+        }
+    ]
+}
